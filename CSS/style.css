@@ -52,7 +52,7 @@ p{
 .card {
     /* background-color: black; */
     width: 50vw;
-    height: 15vh;
+    height: 14vh;
     perspective: 1000px;
     margin: 2vh 26vw;
 }
